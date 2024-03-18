@@ -24,6 +24,7 @@ HARDWARE
 <img width="1280" alt="IMAGE2" src="https://github.com/shaileshkhanna/Wireless-sound-control-using-hand-gesture-control/assets/103241457/a044d902-854c-46ce-96a0-073938a51cf8">
 
 # OUTPUT 3
+<img width="1280" alt="IMAGE3" src="https://github.com/shaileshkhanna/Wireless-sound-control-using-hand-gesture-control/assets/103241457/d3aebd19-31a7-4d15-b13d-80bad1b7dcc3">
 
 # RESULT AND IMPACT
 This Sound control system project explores a vision-based hand gesture system implemented using Python and the OpenCV library. This system leverages a variety of algorithms and techniques to identify and track key points in images, as well as calculate distances between these points. More precisely, the system is capable of tracking the positions of the fingertips, particularly of the index finger, for both hands. 
